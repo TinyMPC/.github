@@ -23,7 +23,7 @@ can be found in the documentation.
 
 ### Python
 
-The Interactive Python interface is available at [tinympc-python](https://github.com/TinyMPC/tinympc-python).
+The Python interactive interface is available at [tinympc-python](https://github.com/TinyMPC/tinympc-python).
 
 ### Julia
 
