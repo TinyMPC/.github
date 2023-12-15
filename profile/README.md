@@ -12,7 +12,9 @@ Additionally, TinyMPC provides interactive interfaces for seamless integration w
 
 If you use TinyMPC in an academic work, please cite the relevant [papers](https://tinympc.org/docs/citing/).
 
-For more information, please see the [TinyMPC website](https://tinympc.org).
+For more information, please see the [TinyMPC website](https://tinympc.org). 
+
+This project was conducted within the [Robotic Exploration Lab](http://rexlab.ri.cmu.edu/), at Carnegie Mellon University.
 
 ## Installing
 
