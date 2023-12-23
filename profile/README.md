@@ -27,7 +27,7 @@ can be found in the documentation.
 
 The Python interactive interface is available at [tinympc-python](https://github.com/TinyMPC/tinympc-python).
 
-### Matlab
+### MATLAB
 
 The Matlab interactive interface is available at [tinympc-matlab](https://github.com/TinyMPC/tinympc-matlab). 
 
