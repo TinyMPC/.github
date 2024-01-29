@@ -25,11 +25,13 @@ can be found in the documentation.
 
 ### Python
 
-The Python interactive interface is available at [tinympc-python](https://github.com/TinyMPC/tinympc-python).
+The Python interactive interface with examples is available at [tinympc-python](https://github.com/TinyMPC/tinympc-python).
 
 ### MATLAB
 
-The Matlab interactive interface is available at [tinympc-matlab](https://github.com/TinyMPC/tinympc-matlab). 
+The MATLAB interactive interface with examples is available at [tinympc-matlab](https://github.com/TinyMPC/tinympc-matlab). 
 
-### Julia (WIP)
+### Julia 
+
+The Julia interactive interface with examples is available at [tinympc-julia](https://github.com/TinyMPC/tinympc-julia). 
 
