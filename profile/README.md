@@ -27,7 +27,7 @@ If you use TinyMPC in an academic work, please cite the relevant papers:
       eprint={2403.18149},
       archivePrefix={arXiv},
 }
-
+```
 
 For more information, please see the [TinyMPC website](https://tinympc.org). 
 
