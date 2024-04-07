@@ -8,7 +8,7 @@ Additionally, TinyMPC provides interactive interfaces for seamless integration w
 
 [**Visit the documentation**](https://tinympc.org) to learn how to use TinyMPC.
 
-[**Visit our GitHub Discussions page**](https://github.com/TinyMPC/discussions) for any questions related to the solver!
+[**Visit our GitHub Discussions page**](https://github.com/orgs/TinyMPC/discussions) for any questions related to the solver!
 
 If you use TinyMPC in an academic work, please cite the relevant papers:
 ```
