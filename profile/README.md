@@ -11,21 +11,30 @@ Additionally, TinyMPC provides interactive interfaces for seamless integration w
 [**Visit our GitHub Discussions page**](https://github.com/orgs/TinyMPC/discussions) for any questions related to the solver!
 
 If you use TinyMPC in an academic work, please cite the relevant papers:
+
 ```
 @inproceedings{tinympc,
       title={TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers}, 
       author={Khai Nguyen and Sam Schoedel and Anoushka Alavilli and Brian Plancher and Zachary Manchester},
+      year={2024},
       booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-      year = {2024}
 }
 ```
 ```
-@misc{tinympc2,
-      title={Code Generation for Conic Model-Predictive Control on Microcontrollers with TinyMPC}, 
-      author={Sam Schoedel and Khai Nguyen and Elakhya Nedumaran and Brian Plancher and Zachary Manchester},
-      year={2024},
+@misc{tinympc-conic-codegen,
+      title={Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC}, 
+      author={Ishaan Mahajan and Khai Nguyen and Sam Schoedel and Elakhya Nedumaran and Moises Mata and Brian Plancher and Zachary Manchester},
+      year={2025},
       eprint={2403.18149},
       archivePrefix={arXiv},
+}
+```
+```
+@inproceedings{tinympc-adaptive,
+      title={Robust and Efficient Embedded Convex Optimization through First-Order Adaptive Caching}, 
+      author={Ishaan Mahajan and Brian Plancher},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      year={2025}
 }
 ```
 
@@ -51,4 +60,12 @@ The MATLAB interactive interface with examples is available at [tinympc-matlab](
 ### Julia 
 
 The Julia interactive interface with examples is available at [tinympc-julia](https://github.com/TinyMPC/tinympc-julia). 
+
+### Running on MCUs
+
+Numerical benchmarks against other solvers on MCUs are available [here](https://github.com/RoboticExplorationLab/mcu-solver-benchmarks).
+
+### TinyMPC on the Crazyflie
+
+TinyMPC-integrated firmware on the Crazyflie nano-quadrotor is available [here](https://github.com/RoboticExplorationLab/tinympc-crazyflie-firmware).
 
