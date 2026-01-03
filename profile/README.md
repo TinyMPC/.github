@@ -40,7 +40,7 @@ If you use TinyMPC in an academic work, please cite the relevant papers:
 
 For more information, please see the [TinyMPC website](https://tinympc.org). 
 
-This project was conducted within the [Robotic Exploration Lab](http://rexlab.ri.cmu.edu/), at Carnegie Mellon University.
+This project was conducted within the [Robotic Exploration Lab](https://roboticexplorationlab.org/), at Carnegie Mellon University.
 
 ## Installing
 
