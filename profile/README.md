@@ -16,17 +16,8 @@ If you use TinyMPC in an academic work, please cite the relevant papers:
 @inproceedings{tinympc,
       title={TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers}, 
       author={Khai Nguyen and Sam Schoedel and Anoushka Alavilli and Brian Plancher and Zachary Manchester},
-      year={2024},
       booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-}
-```
-```
-@misc{tinympc-conic-codegen,
-      title={Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC}, 
-      author={Ishaan Mahajan and Khai Nguyen and Sam Schoedel and Elakhya Nedumaran and Moises Mata and Brian Plancher and Zachary Manchester},
-      year={2025},
-      eprint={2403.18149},
-      archivePrefix={arXiv},
+      year={2024},
 }
 ```
 ```
@@ -34,7 +25,15 @@ If you use TinyMPC in an academic work, please cite the relevant papers:
       title={Robust and Efficient Embedded Convex Optimization through First-Order Adaptive Caching}, 
       author={Ishaan Mahajan and Brian Plancher},
       booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      year={2025}
+      year={2025},
+}
+```
+```
+@inproceedings{conic-tinympc,
+      title={Code Generation and Conic Constraints for Model-Predictive Control on Microcontrollers with Conic-TinyMPC}, 
+      author={Ishaan Mahajan and Khai Nguyen and Sam Schoedel and Elakhya Nedumaran and Moises Mata and Brian Plancher and Zachary Manchester},
+      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+      year={2026},
 }
 ```
 
